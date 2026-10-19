@@ -16,3 +16,9 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+## Known Passwords
+
+-Password123
+-Password456
+-Password789
