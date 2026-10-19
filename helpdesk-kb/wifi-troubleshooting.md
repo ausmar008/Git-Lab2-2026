@@ -20,8 +20,15 @@ This guide provides common troubleshooting steps for wireless connectivity issue
 
 ## Known Issues
 
-No issues currently documented.
+No issues
 
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+## Slow Wireless Connections
+would not recommend connecting to
+
+- DavidsBell3G
+- G3opolis04
+- Fidoom06
